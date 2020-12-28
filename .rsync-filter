@@ -1,4 +1,13 @@
-- /build-output/
-- /scratch/
+- *.swp
+- .*#
+- *#
+- *~
 
+- scratch
+- scratch-*
+- scratch.*
+
+- typescript
+
+- build-output
 - .ts.*

@@ -1,4 +1,20 @@
-/build-output*/
-/scratch/
+*.swp
+.#*
+*#
+*~
+
+.all.*
+.out.*
+.du@*
+.sb.*
 
 .ts.*
+
+scratch
+scratch-*
+scratch.*
+
+typescript
+
+build-output
+
