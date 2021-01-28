@@ -1,1 +1,1 @@
-Scripts built around QEMU which help to leverage its capabilities.
+Scripts built around QEMU that help to leverage its capabilities.
